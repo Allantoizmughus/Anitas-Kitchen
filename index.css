@@ -10,10 +10,6 @@ body{
     background-size: 100% 350px;
     align-items: center;
 }
-div{
-    text-align: center;
-    color: lavender;
-}
 #image{
     position: inherit;
     top: 50%;
@@ -71,6 +67,18 @@ div{
     background-size: 25% 50px;
     font-style: italic;
     background-repeat: no-repeat;
+}
+.container3{
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    float: right;
+}
+.container4{
+    display: flex;
+    justify-content: start;
+    flex-direction: row;
+    float: left;
 }
 
 
