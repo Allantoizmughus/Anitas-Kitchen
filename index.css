@@ -97,6 +97,13 @@ ul{
 #fastfood{
     justify-content: space-between;
 }
+h6{
+    color: #F15A29;
+}
+.container6{
+    display: flex;
+    padding: 10px;
+}
 
 
 
