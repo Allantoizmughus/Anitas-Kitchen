@@ -124,7 +124,11 @@ h4{
     background-image: url('assets-2021/assets/backgrounds/subscribe.jpg');
     width: 100%;
     height: 150px;
-    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: white;
+
 }
 .footer{
     border: 1px solid white;
@@ -138,14 +142,7 @@ h4{
 #image3, image4{
     float: left;
 }
-#email{
-    display: flex;
-    flex-direction: row;
-}
-#subacribe{
-    display: flex;
-    flex-direction: row;
-}
+
 
 
 
