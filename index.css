@@ -1,3 +1,6 @@
+body{
+    display: flex;
+    flex-direction: column;
 }
 #header{
     background-image: url('assets-2021/assets/backgrounds/landing.jpg');
