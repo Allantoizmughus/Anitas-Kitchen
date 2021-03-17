@@ -22,6 +22,10 @@ body{
     flex-wrap: nowrap;
     flex-direction: row;
   }
+  
+  .container2{
+    flex-direction: column;
+  }
   #happyhour{
     background-color: rgb(219, 219, 236);
     text-align: center;
